@@ -7,7 +7,7 @@ TermiCalculus is a simple Python program for performing calculus operations in t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TermiCalculus.git
+   git clone https://github.com/jimboo420/TermiCalculus.git
    cd TermiCalculus
 
 2. Install the required dependencies:
