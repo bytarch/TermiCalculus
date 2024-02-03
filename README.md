@@ -20,7 +20,6 @@ TermiCalculus is a simple Python program for performing calculus operations in t
     ```bash
     python app.py
 
-
 # Usage
 
 Follow the on-screen instructions to choose the calculus operation you want to perform and provide the required input.
